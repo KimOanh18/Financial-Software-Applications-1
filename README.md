@@ -29,3 +29,4 @@ Financial databases or APIs for sourcing financial data.
 Jupyter Notebook for an interactive coding environment.
 ## 4. Conclusion
 This project aims to provide a comprehensive analysis of DGW's financial health and offer valuable investment insights. By combining financial and technical analysis, investors can make more informed decisions regarding their investments in DGW stock.
+READ FULL REPORT AT: https://drive.google.com/file/d/11Gmq-mfVAMG2CzPI9GXA-3UQw_dG9Dis/view?usp=sharing
